@@ -1,18 +1,18 @@
 #dodger {
-  background-color: white;
+  background-color: rgb(235, 0, 0);
   height: 20px;
   position: absolute;
   width: 40px;
 }
 
 #game {
-  background-color: #111;
-  height: 400px;
+  background-color: rgb(76, 0, 255);
+  height: 800px;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
   text-align: center;
-  width: 400px;
+  width: 800px;
 }
 
 #start {
@@ -53,3 +53,8 @@
   position: absolute;
   width: 9px;
 }
+
+body {
+  background-color: grey;
+  text-align: center;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
